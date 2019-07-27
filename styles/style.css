@@ -1,0 +1,23 @@
+h1, h3, button  {
+    background: #4aaaa5;
+    color: white;
+}
+
+h2 {
+    color: #4aaaa5;
+}
+
+ul {
+    color: #cccccc;
+}
+
+footer {
+    font-size: 12px;
+    border-top: solid #4aaaa5 8px;
+    background: #666666;
+    color: #fff;
+}
+
+h3 {
+    bottom: 0;
+}
